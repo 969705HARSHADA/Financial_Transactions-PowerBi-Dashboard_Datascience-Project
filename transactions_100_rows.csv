@@ -1,0 +1,101 @@
+TransactionID,Date,AccountType,Category,Amount,Currency,PaymentMethod,Region
+TXN001,2025-01-01,Income,Refund,5803.98,USD,Bank Transfer,Asia
+TXN002,2025-01-02,Income,Salary,6919.64,USD,Debit Card,Europe
+TXN003,2025-01-03,Income,Refund,5087.48,USD,Online Payment,North America
+TXN004,2025-01-04,Income,Bonus,1191.86,USD,Debit Card,Asia
+TXN005,2025-01-05,Income,Investment,5191.8,USD,Bank Transfer,Asia
+TXN006,2025-01-06,Income,Investment,5753.11,USD,Cash,South America
+TXN007,2025-01-07,Income,Refund,1640.71,USD,Debit Card,Europe
+TXN008,2025-01-08,Expense,Rent,732.62,USD,Debit Card,Asia
+TXN009,2025-01-09,Expense,Transport,134.13,USD,Debit Card,Asia
+TXN010,2025-01-10,Income,Refund,3948.08,USD,Online Payment,North America
+TXN011,2025-01-11,Income,Investment,6808.35,USD,Credit Card,South America
+TXN012,2025-01-12,Income,Investment,5047.34,USD,Debit Card,South America
+TXN013,2025-01-13,Expense,Transport,2687.98,USD,Online Payment,Asia
+TXN014,2025-01-14,Income,Investment,4004.94,USD,Online Payment,South America
+TXN015,2025-01-15,Expense,Utilities,4690.57,USD,Credit Card,Europe
+TXN016,2025-01-16,Income,Bonus,1428.04,USD,Online Payment,South America
+TXN017,2025-01-17,Expense,Utilities,4230.98,USD,Bank Transfer,North America
+TXN018,2025-01-18,Expense,Transport,2667.64,USD,Debit Card,South America
+TXN019,2025-01-19,Income,Salary,5265.53,USD,Bank Transfer,Europe
+TXN020,2025-01-20,Income,Refund,3153.64,USD,Cash,South America
+TXN021,2025-01-21,Expense,Rent,1312.52,USD,Online Payment,Europe
+TXN022,2025-01-22,Expense,Entertainment,62.09,USD,Online Payment,North America
+TXN023,2025-01-23,Income,Investment,4308.86,USD,Online Payment,Europe
+TXN024,2025-01-24,Income,Salary,6963.72,USD,Credit Card,North America
+TXN025,2025-01-25,Income,Bonus,3220.11,USD,Debit Card,South America
+TXN026,2025-01-26,Expense,Utilities,1458.03,USD,Debit Card,Europe
+TXN027,2025-01-27,Expense,Transport,1789.87,USD,Credit Card,North America
+TXN028,2025-01-28,Expense,Transport,639.47,USD,Cash,Asia
+TXN029,2025-01-29,Income,Investment,1249.94,USD,Credit Card,North America
+TXN030,2025-01-30,Expense,Groceries,390.92,USD,Credit Card,Asia
+TXN031,2025-01-31,Expense,Healthcare,4510.74,USD,Credit Card,South America
+TXN032,2025-02-01,Income,Investment,4491.62,USD,Debit Card,Asia
+TXN033,2025-02-02,Expense,Healthcare,1494.17,USD,Bank Transfer,Asia
+TXN034,2025-02-03,Expense,Entertainment,3319.33,USD,Online Payment,South America
+TXN035,2025-02-04,Expense,Utilities,263.25,USD,Bank Transfer,Asia
+TXN036,2025-02-05,Expense,Groceries,4563.01,USD,Online Payment,North America
+TXN037,2025-02-06,Income,Refund,5014.7,USD,Bank Transfer,South America
+TXN038,2025-02-07,Income,Bonus,2465.63,USD,Credit Card,North America
+TXN039,2025-02-08,Expense,Transport,2222.78,USD,Debit Card,Europe
+TXN040,2025-02-09,Income,Bonus,2104.15,USD,Debit Card,Asia
+TXN041,2025-02-10,Income,Bonus,3453.42,USD,Debit Card,North America
+TXN042,2025-02-11,Expense,Transport,772.34,USD,Credit Card,Europe
+TXN043,2025-02-12,Expense,Rent,1411.06,USD,Online Payment,Asia
+TXN044,2025-02-13,Income,Salary,5352.0,USD,Online Payment,North America
+TXN045,2025-02-14,Income,Bonus,2080.99,USD,Debit Card,South America
+TXN046,2025-02-15,Expense,Transport,2928.92,USD,Bank Transfer,Europe
+TXN047,2025-02-16,Income,Refund,6776.4,USD,Bank Transfer,Asia
+TXN048,2025-02-17,Income,Investment,6158.96,USD,Debit Card,North America
+TXN049,2025-02-18,Income,Refund,6033.31,USD,Credit Card,Europe
+TXN050,2025-02-19,Income,Refund,6114.22,USD,Debit Card,Asia
+TXN051,2025-02-20,Income,Investment,1363.78,USD,Cash,South America
+TXN052,2025-02-21,Income,Salary,1173.28,USD,Online Payment,South America
+TXN053,2025-02-22,Income,Investment,963.48,USD,Cash,North America
+TXN054,2025-02-23,Expense,Utilities,1928.52,USD,Online Payment,Asia
+TXN055,2025-02-24,Expense,Utilities,3429.95,USD,Debit Card,South America
+TXN056,2025-02-25,Expense,Utilities,2140.44,USD,Debit Card,Asia
+TXN057,2025-02-26,Income,Refund,5662.88,USD,Bank Transfer,Europe
+TXN058,2025-02-27,Expense,Healthcare,3742.99,USD,Bank Transfer,Asia
+TXN059,2025-02-28,Income,Refund,5615.53,USD,Credit Card,Europe
+TXN060,2025-03-01,Income,Investment,1867.09,USD,Cash,Europe
+TXN061,2025-03-02,Expense,Utilities,894.52,USD,Bank Transfer,North America
+TXN062,2025-03-03,Income,Refund,6080.11,USD,Debit Card,Europe
+TXN063,2025-03-04,Expense,Rent,289.57,USD,Cash,South America
+TXN064,2025-03-05,Expense,Healthcare,3070.49,USD,Online Payment,Asia
+TXN065,2025-03-06,Income,Salary,6275.7,USD,Debit Card,Asia
+TXN066,2025-03-07,Income,Investment,6696.85,USD,Online Payment,Europe
+TXN067,2025-03-08,Expense,Healthcare,2928.16,USD,Credit Card,South America
+TXN068,2025-03-09,Expense,Rent,2670.63,USD,Bank Transfer,South America
+TXN069,2025-03-10,Expense,Utilities,1143.69,USD,Bank Transfer,Asia
+TXN070,2025-03-11,Income,Investment,578.19,USD,Debit Card,South America
+TXN071,2025-03-12,Expense,Healthcare,2074.91,USD,Online Payment,Europe
+TXN072,2025-03-13,Income,Investment,5613.24,USD,Cash,Asia
+TXN073,2025-03-14,Expense,Utilities,3441.7,USD,Online Payment,Asia
+TXN074,2025-03-15,Income,Refund,2415.15,USD,Cash,South America
+TXN075,2025-03-16,Expense,Utilities,1863.68,USD,Debit Card,North America
+TXN076,2025-03-17,Income,Salary,2603.67,USD,Online Payment,Europe
+TXN077,2025-03-18,Income,Bonus,5261.36,USD,Online Payment,Asia
+TXN078,2025-03-19,Expense,Healthcare,2423.35,USD,Bank Transfer,South America
+TXN079,2025-03-20,Income,Refund,4380.42,USD,Cash,Asia
+TXN080,2025-03-21,Income,Bonus,6954.65,USD,Bank Transfer,South America
+TXN081,2025-03-22,Expense,Entertainment,2936.6,USD,Online Payment,Europe
+TXN082,2025-03-23,Income,Salary,3602.92,USD,Cash,North America
+TXN083,2025-03-24,Expense,Healthcare,1356.47,USD,Bank Transfer,North America
+TXN084,2025-03-25,Income,Salary,6701.23,USD,Cash,Europe
+TXN085,2025-03-26,Income,Investment,5923.23,USD,Debit Card,North America
+TXN086,2025-03-27,Expense,Groceries,3203.71,USD,Credit Card,North America
+TXN087,2025-03-28,Income,Bonus,5244.89,USD,Online Payment,Europe
+TXN088,2025-03-29,Income,Bonus,5301.84,USD,Online Payment,South America
+TXN089,2025-03-30,Expense,Healthcare,1649.09,USD,Bank Transfer,North America
+TXN090,2025-03-31,Income,Refund,3070.4,USD,Bank Transfer,Europe
+TXN091,2025-04-01,Expense,Entertainment,1796.03,USD,Cash,North America
+TXN092,2025-04-02,Expense,Healthcare,1851.73,USD,Cash,Europe
+TXN093,2025-04-03,Expense,Utilities,1649.6,USD,Credit Card,North America
+TXN094,2025-04-04,Expense,Transport,1614.22,USD,Bank Transfer,Asia
+TXN095,2025-04-05,Income,Refund,6266.94,USD,Bank Transfer,Europe
+TXN096,2025-04-06,Expense,Entertainment,1302.93,USD,Online Payment,South America
+TXN097,2025-04-07,Income,Investment,3519.14,USD,Bank Transfer,Europe
+TXN098,2025-04-08,Expense,Utilities,3374.32,USD,Bank Transfer,North America
+TXN099,2025-04-09,Income,Salary,5235.53,USD,Debit Card,Asia
+TXN100,2025-04-10,Expense,Transport,4563.27,USD,Bank Transfer,Asia
